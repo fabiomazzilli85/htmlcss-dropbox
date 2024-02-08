@@ -23,6 +23,11 @@ body {
     margin: 0 auto;
 }
 
+.container_home_page {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 30px;
+}
 
 .flex_navbar {
     display: flex;
@@ -52,4 +57,21 @@ body {
 
 .title {
     font-size: 40px;
+}
+
+.bg_header {
+    background-color: #B4D0E7;
+    padding: 20px;
+}
+
+.fontawesome {
+   font-size: 30px;
+}
+
+.flex_home_page {
+    display: flex;
+}
+
+.home_photo {
+    width: 350px;
 }
