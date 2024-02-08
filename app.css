@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul, li, nav {
+    list-style: none;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+
+.flex_navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 0;
+}
+
+.navbar_left {
+    display: flex;
+    gap: 20px;
+}
+
+.navbar_right {
+    display: flex;
+    gap: 20px;
+}
+
+.button {
+    background-color: #005BFF;
+    color: white;
+}
