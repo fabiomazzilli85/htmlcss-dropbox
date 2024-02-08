@@ -49,3 +49,7 @@ body {
 .logo {
     font-weight: 700;
 }
+
+.title {
+    font-size: 40px;
+}
