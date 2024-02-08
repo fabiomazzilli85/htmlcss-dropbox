@@ -13,8 +13,13 @@ body {
 }
 
 
-.container {
+.container_large {
     max-width: 1200px;
+    margin: 0 auto;
+}
+
+.container_medium {
+    max-width: 900px;
     margin: 0 auto;
 }
 
@@ -39,4 +44,8 @@ body {
 .button {
     background-color: #005BFF;
     color: white;
+}
+
+.logo {
+    font-weight: 700;
 }
