@@ -119,9 +119,17 @@ body {
 .card {
     line-height: 30px;
     margin: 0 20px;
+    border: 1px solid black;
+    padding: 0 10px;
 }
 
 .flex_card {
     display: flex;
     align-items:flex-start;
+}
+
+.user {
+    border: 1px solid black;
+    text-align: center;
+    margin-bottom: 15px;
 }
