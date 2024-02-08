@@ -29,6 +29,11 @@ body {
     padding: 30px;
 }
 
+.container_small {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
 .flex_navbar {
     display: flex;
     align-items: center;
@@ -90,4 +95,14 @@ body {
 
 .home_photo {
     width: 550px;
+}
+
+.fatturazione_flex {
+    display: flex;
+    padding-top: 20px;
+    gap: 5px;
+}
+
+#annuale {
+    margin-left: 25px;
 }
