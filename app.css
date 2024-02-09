@@ -147,7 +147,7 @@ body {
     border: 1px solid black;
     padding: 0 10px;
     height:820px;
-    width: 300px;
+    width: 100%;
 }
 
 .flex_card {
