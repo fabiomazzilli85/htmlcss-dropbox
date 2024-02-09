@@ -48,6 +48,14 @@ body {
 	width: calc(8 * 100% / 12);
 }
 
+.col_9 {
+    width: calc(9*100% / 12);
+}
+
+.col_3 {
+    width: calc(3*100% /12);
+}
+
 .flex_navbar {
     display: flex;
     align-items: center;
@@ -161,4 +169,29 @@ body {
 
 .home_photo {
     padding-left: 20px;
+}
+
+.central_team {
+    text-align: center;
+    margin-top: 30px;
+    border: 1px solid black;
+}
+
+.enterprise_margin {
+    margin-bottom: 15px;
+}
+
+.margin_price {
+    margin-bottom: 30px;
+}
+
+.border_card {
+    border: 1px solid black;
+    margin-bottom: 55px;
+    padding: 20px;
+}
+
+.flex_card_lg {
+    display: flex;
+    justify-content: space-between;
 }
