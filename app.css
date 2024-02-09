@@ -14,7 +14,7 @@ body {
 
 
 .container_large {
-    max-width: 1200px;
+    width: 100%;
     margin: 0 auto;
 }
 
@@ -35,21 +35,32 @@ body {
     margin: 0 auto;
 }
 
+.col_4 {
+	width: calc(4 * 100% / 12);
+}
+
+.col_8 {
+	width: calc(8 * 100% / 12);
+}
+
 .flex_navbar {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 20px 0;
+    padding: 20px ;
 }
 
 .navbar_left {
     display: flex;
     gap: 20px;
+    align-items: center;
+    padding-left: 10px;
 }
 
 .navbar_right {
     display: flex;
     gap: 20px;
+    padding-right: 10px;
     align-items: center;
 }
 
@@ -61,7 +72,8 @@ body {
 }
 
 .logo {
-    font-weight: 700;
+    width: 100px;
+    display: block;
 }
 
 .title {
@@ -101,8 +113,8 @@ body {
     display: flex;
 }
 
-.home_photo {
-    width: 550px;
+.col_8 .home_photo {
+   width: 100%;
 }
 
 .fatturazione_flex {
