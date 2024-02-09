@@ -152,8 +152,8 @@ body {
 .card {
     line-height: 35px;
     border: 1px solid black;
-    padding: 0 10px;
-    height:820px;
+    padding: 0 15px;
+    height:840px;
     width: 100%;
 }
 
