@@ -136,10 +136,10 @@ body {
 
 .card {
     line-height: 35px;
-    margin: 0 10px;
     border: 1px solid black;
-    padding: 0 7px;
-    height: 800px;
+    padding: 0 10px;
+    height:820px;
+    width: 280px;
 }
 
 .flex_card {
