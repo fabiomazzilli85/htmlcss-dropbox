@@ -84,6 +84,13 @@ body {
     border: none;
 }
 
+.button_white {
+    background-color: white;
+    color: black;
+    padding: 10px;
+    margin-top: 30px;
+}
+
 .logo {
     width: 100px;
     display: block;
@@ -187,11 +194,27 @@ body {
 
 .border_card {
     border: 1px solid black;
-    margin-bottom: 55px;
+    margin-bottom: 100px;
     padding: 20px;
 }
 
 .flex_card_lg {
     display: flex;
     justify-content: space-between;
+}
+
+.flex_partner {
+    display: flex;
+}
+
+.partner_photo {
+    width: 400px;
+}
+
+.partner_margin {
+    margin-left: 25px;
+}
+
+.margin_partner {
+    margin-bottom: 15px;
 }
