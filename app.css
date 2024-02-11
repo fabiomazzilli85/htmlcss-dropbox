@@ -318,3 +318,17 @@ body {
     float: right;
     margin-right: 30px;
 }
+
+.footer_flex {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.bg_footer {
+    background-color: black;
+    color: white;
+    padding-top: 70px;
+    padding-bottom: 35px;
+    line-height: 30px;
+}
