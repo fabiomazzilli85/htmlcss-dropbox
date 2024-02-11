@@ -10,6 +10,7 @@ ul, li, nav {
 
 body {
     font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
 }
 
 .row {
@@ -212,7 +213,7 @@ body {
 }
 
 .partner_photo {
-    width: 400px;
+    width: 100%;
 }
 
 .partner_margin {
@@ -227,14 +228,23 @@ body {
     margin-bottom: 100px;
 }
 
-.box_business {
-    width: 280px;
+.business_title {
+    margin-bottom: 20px;
 }
 
-.img_business {
+
+.business_box {
     width: 280px;
+    padding: 15px;
 }
 
-.flex_business {
+.business_flex {
     display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.business_img {
+    width: 100%;
 }
