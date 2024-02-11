@@ -320,7 +320,7 @@ body {
     gap: 30px;
 }
 
-.bg_footer {
+footer {
     background-color: black;
     color: white;
     padding-top: 70px;
