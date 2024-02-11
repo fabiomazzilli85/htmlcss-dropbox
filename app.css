@@ -236,6 +236,7 @@ body {
 .business_box {
     width: 280px;
     padding: 15px;
+    margin-bottom: 100px;
 }
 
 .business_flex {
@@ -247,4 +248,39 @@ body {
 
 .business_img {
     width: 100%;
+}
+
+.business_margin {
+    margin-bottom: 35px;
+}
+
+.client_margin {
+    padding-bottom:  100px;
+}
+
+.partner_flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.drobpox_flex {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.button_free {
+    background-color: white;
+    color:  black;
+    padding: 5px 15px;
+    border: none;
+}
+
+.bg_business {
+    background-color: #B4D0E7;
+    padding: 60px;
+}
+
+.brown_title {
+    color: #600528;
 }
