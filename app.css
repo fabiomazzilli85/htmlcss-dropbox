@@ -34,17 +34,6 @@ body {
     margin: 0 auto;
 }
 
-.container_medium {
-    max-width: 900px;
-    margin: 0 auto;
-    padding: 20px;
-}
-
-.container_small {
-    max-width: 800px;
-    margin: 0 auto;
-}
-
 .col_4 {
 	width: calc(4 * 100% / 12);
 }
@@ -141,6 +130,7 @@ body {
 
 .home_photo {
    width: 100%;
+   padding-left: 20px;
 }
 
 .fatturazione_flex {
@@ -177,10 +167,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-.home_photo {
-    padding-left: 20px;
 }
 
 .central_team {
@@ -220,10 +206,6 @@ body {
     margin-left: 25px;
 }
 
-.margin_partner {
-    margin-bottom: 15px;
-}
-
 .margin_bottom_partner {
     margin-bottom: 100px;
 }
@@ -231,7 +213,6 @@ body {
 .business_title {
     margin-bottom: 20px;
 }
-
 
 .business_box {
     width: 280px;
