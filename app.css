@@ -10,7 +10,7 @@ ul, li, nav {
 
 body {
     font-family: 'Open Sans', sans-serif;
-    font-size: 15px;
+    font-size: 14px;
 }
 
 .row {
@@ -139,7 +139,7 @@ body {
     display: flex;
 }
 
-.col_8 .home_photo {
+.home_photo {
    width: 100%;
 }
 
