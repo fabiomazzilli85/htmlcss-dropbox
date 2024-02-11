@@ -284,3 +284,32 @@ body {
 .brown_title {
     color: #600528;
 }
+
+.ask_box {
+    margin: 100px 0;
+}
+
+.ask_margin_bottom {
+    margin-bottom: 35px;
+}
+
+.ask_bottom {
+    border-bottom: 1px solid grey;
+    padding: 25px 0;
+}
+
+.ask {
+    padding: 25px 0;
+    border-top: 1px solid grey;
+}
+
+.ask_margin {
+    border-bottom: 1px solid grey;    
+    padding: 25px 0;
+}
+
+.ask_bottom_top {
+    border-bottom: 1px solid grey;
+    border-top: 1px solid grey;
+    padding: 25px 0;
+}
