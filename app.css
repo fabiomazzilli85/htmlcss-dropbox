@@ -313,3 +313,8 @@ body {
     border-top: 1px solid grey;
     padding: 25px 0;
 }
+
+.arrow {
+    float: right;
+    margin-right: 30px;
+}
