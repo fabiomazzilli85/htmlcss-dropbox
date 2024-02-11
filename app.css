@@ -12,6 +12,10 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
 
 .container_large {
     width: 100%;
@@ -221,4 +225,16 @@ body {
 
 .margin_bottom_partner {
     margin-bottom: 100px;
+}
+
+.box_business {
+    width: 280px;
+}
+
+.img_business {
+    width: 280px;
+}
+
+.flex_business {
+    display: flex;
 }
