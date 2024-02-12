@@ -88,11 +88,21 @@ body {
     border: none;
 }
 
+.button:hover {
+    background-color: rgb(33, 32, 53);
+    color: yellow;
+}
+
 .button_white {
     background-color: white;
     color: black;
     padding: 10px;
     margin-top: 30px;
+}
+
+.button_white:hover {
+    background-color: black;
+    color: white;
 }
 
 .logo {
