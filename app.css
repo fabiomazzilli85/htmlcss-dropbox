@@ -317,7 +317,7 @@ body {
 .footer_flex {
     display: flex;
     justify-content: center;
-    gap: 30px;
+    gap: 50px;
 }
 
 footer {
