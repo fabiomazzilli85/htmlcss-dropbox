@@ -93,6 +93,13 @@ body {
     color: yellow;
 }
 
+h2:hover {
+    color: yellow;
+    background-color: rgb(33, 32, 53);
+    padding: 4px;
+    border-radius: 5px;
+}
+
 .button_white {
     background-color: white;
     color: black;
